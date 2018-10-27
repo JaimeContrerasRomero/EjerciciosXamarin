@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Ejercicio3"
+             x:Class="Ejercicio3.MainPage">
+
+    <StackLayout Margin="20">
+        <!-- Place new controls here -->
+        <Label Text="Ejercicio 3" 
+           HorizontalOptions="Center" />
+        
+        <Entry x:Name="txtNumero1"
+               Placeholder="Ingrese un numero"
+               Keyboard="Numeric"></Entry>
+        
+        <Picker Title="Operacion" x:Name="cboOperacion">
+            <Picker.Items>
+                <x:String>+</x:String>
+                <x:String>-</x:String>
+                <x:String>*</x:String>
+                <x:String>/</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Entry x:Name="txtNumero2" 
+               Placeholder="Ingrese un numero"
+               Keyboard="Numeric"></Entry>
+
+        <Button Text="Calcular" Clicked="Button_Clicked"></Button>
+        
+    </StackLayout>
+
+</ContentPage>

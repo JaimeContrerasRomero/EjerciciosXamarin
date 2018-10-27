@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Ejercicio4"
+             x:Class="Ejercicio4.MainPage"
+             Title="Principal">
+
+    <StackLayout Margin="20" >
+        <!-- Place new controls here -->
+        <Label Text="Ejercicio 4" 
+           HorizontalOptions="Center"/>
+
+        <Button Text="Dolar - Peso" Clicked="Button_Clicked"></Button>
+        <Button Text="Peso - Dolar" Clicked="Button_Clicked_1"></Button>
+        <Button Text="Euro - Peso" Clicked="Button_Clicked_2"></Button>
+        <Button Text="Peso - Euro" Clicked="Button_Clicked_3"></Button>
+        
+    </StackLayout>
+
+</ContentPage>
