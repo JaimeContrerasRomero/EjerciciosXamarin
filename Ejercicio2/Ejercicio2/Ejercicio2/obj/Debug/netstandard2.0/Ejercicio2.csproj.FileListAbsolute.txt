@@ -1,0 +1,12 @@
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\bin\Debug\netstandard2.0\Ejercicio2.deps.json
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\bin\Debug\netstandard2.0\Ejercicio2.dll
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\bin\Debug\netstandard2.0\Ejercicio2.pdb
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\netstandard2.0\Ejercicio2.csprojAssemblyReference.cache
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\netstandard2.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\netstandard2.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\netstandard2.0\Ejercicio2.AssemblyInfo.cs
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\netstandard2.0\Ejercicio2.dll
+C:\EjerciciosXamarin\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\netstandard2.0\Ejercicio2.pdb
